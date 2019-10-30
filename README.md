@@ -1,6 +1,6 @@
 # chatapp
 client-server chat Application. 
-Very basic and simple chat application... Uses very swing for UI...
+Very basic and simple chat application... Uses swing for UI...
 
 1. Clone or downlaod the project.
 2. Install and run mysql.
